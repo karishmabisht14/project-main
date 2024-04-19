@@ -1,0 +1,125 @@
+[ 
+    {
+        "eventId" : 1,
+        "eventName" : "Sunburn Holi Weekend Ft. Marshmello - Delhi",
+        "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyMyBNYXI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00385751-emnqdaeddj-portrait.jpg",
+        "Language" : ["English"],
+        "Duration" : "6hrs",
+        "Genres" : "EDM",
+        "venue" : "Backyard Sports Club: Gurugram",
+        "CensorBoardRating" : "3yrs+",
+        "Date": ["03/28/2024", "03/29/2024","03/30/2024"],
+        "Price" : 999
+},
+{
+    "eventId" : 2,
+    "eventName" : "Kisi Ko Batana Mat By Anubhav Singh Bassi",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U3VuLCAyNCBNYXI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00383732-vfhfjxybtw-portrait.jpg",
+    "Language" : ["Hindi"],
+    "Duration" : "1hr 40mins",
+    "Genres" : "Comedy",
+    "venue" : "TalKatora Stadium: Delhi",
+    "CensorBoardRating" : "18yrs+",
+    "Date": ["04/23/2024"],
+    "Price": 599
+}, 
+{
+    "eventId" : 3,
+    "eventName" : "Jo Bolta Hai Wohi Hota Hai Ft. Harsh Gujral",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyMCBBcHI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00319088-ufbrskpxlr-portrait.jpg",
+    "Language" : ["Hindi", "English"],
+    "Duration" : "1hr 30mins",
+    "Genres" : "Comedy",
+    "venue" : "Multiple Venues",
+    "CensorBoardRating" : "16yrs+",
+    "Date": ["04/12/2024"],
+    "Price": 999
+
+},
+{
+    "eventId" : 4,
+    "eventName" : "B Praak Live in Concert",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBNYXI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00388134-bepjbryrre-portrait.jpg",
+    "Language" : ["Punjabi"],
+    "Duration" : "3hrs",
+    "Genres" : ["Bollywood", "Punjabi"],
+    "venue" : "Gymkhana Club: Sec 29, Gurugram",
+    "CensorBoardRating" : "3yrs+",
+    "Date": ["04/20/2024"],
+    "Price": 799
+},
+{
+    "eventId" : 5,
+    "eventName" : "BMW Joytown 2024",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAxMiBBcHI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00386991-aendnrfubx-portrait.jpg",
+    "Language" : ["English","Hindi","Punjabi"],
+    "Duration" : "6hrs",
+    "Genres" : ["Bollywood","EDM", "International"],
+    "venue" : "Mahalaxmi Race Course: Mumbai",
+    "CensorBoardRating" : "All age groups",
+    "Date": ["03/30/2024", "03/31/2024", "04/01/2024"],
+    "Price": 1099
+}, 
+{
+    "eventId" : 6,
+    "eventName" : "MAIN SHAYAR TOH NAHI ft Manhar Seth",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAzMCBNYXIgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00368890-dgpwmhfvta-portrait.jpg",
+    "Language" : ["English","Hindi","Punjabi"],
+    "Duration" : "1hr 30mins",
+    "Genres" : ["Comedy"],
+    "venue" : "Multiple Venues",
+    "CensorBoardRating" : "16yrs+",
+    "Date": ["04/10/2024"],
+    "Price": 999
+}, 
+{
+    "eventId" : 7,
+    "eventName" : "PokerBaazi Presents Sagar Wali Qawwali",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAyOSBNYXI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00370227-uvhrplcrls-portrait.jpg",
+    "Language" : ["Hindi"],
+    "Duration" : "2hrs",
+    "Genres" : ["Sufi"],
+    "venue" : "Multiple Venues",
+    "CensorBoardRating" : "16yrs+",
+    "Date": ["04/25/2024","04/26/2024","04/27/2024"],
+    "Price": 899
+
+},
+{
+    "eventId" : 8,
+    "eventName" : "Lemons & Peaches ft. Gursimran Khamba",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-RnJpLCAxMiBBcHIgb253YXJkcw%3D%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00388570-ufermygape-portrait.jpg",
+    "Language" : ["Hindi", "English"],
+    "Duration" : "2hr",
+    "Genres" : ["Comedy"],
+    "venue" : "Multiple Venues",
+    "CensorBoardRating" : "18yrs+",
+    "Date":["04/18/2024", "04/19/2024","04/20/2024"],
+    "Price": 499
+},
+{
+    "eventId" : 9,
+    "eventName" : "Qawwali by Nizami Bandhu",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAyMCBBcHI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00376530-vhxkuzzzcj-portrait.jpg",
+    "Language" : ["Hindi"],
+    "Duration" : "1hr",
+    "Genres" : ["Indian Classical"],
+    "venue" : "kamani Auditorium: Delhi",
+    "CensorBoardRating" : "3yrs+",
+    "Date": ["04/20/2024","04/21/2024","04/22/2024"],
+    "Price": 599
+},
+{
+    "eventId" : 10,
+    "eventName" : "Startup Networking Delhi NCR",
+    "eventPoster" : "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:l-text,ie-U2F0LCAxMyBBcHI%3D,fs-29,co-FFFFFF,ly-612,lx-24,pa-8_0_0_0,l-end/et00386485-ynvalldrbj-portrait.jpg",
+    "Language" : ["English","Hindi"],
+    "Duration" : "2hr 30min",
+    "Genres" : ["Business", "Education", "Technology"],
+    "venue" : "Nojoto Creater Hub, Sector 28: Gurugram",
+    "CensorBoardRating" : "18yrs+",
+    "Date": "04/13/2024",
+    "Price": 499
+}
+]
+
